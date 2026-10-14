@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\layout_dialog_report.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\layout\\dialog_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\layout_activity_scanner.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\layout\\activity_scanner.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\layout_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\layout\\spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\layout_activity_package_details.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\layout\\activity_package_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\layout_dialog_report_params.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\layout\\dialog_report_params.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\layout_spinner_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.evrazinventarizasiya.app-debug-38:/drawable_icon.png.flat",
+        "source": "com.example.evrazinventarizasiya.app-main-40:/drawable/icon.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-debug-38:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.13\\com.example.evrazinventarizasiya.app-main-40:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

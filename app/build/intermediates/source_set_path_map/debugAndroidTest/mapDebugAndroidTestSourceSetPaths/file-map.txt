@@ -1,0 +1,8 @@
+com.example.evrazinventarizasiya.test.app-annotation-experimental-1.4.1-0 C:\Users\User\.gradle\caches\8.13\transforms\70b4294a240221dbd1821be64530a8b9\transformed\annotation-experimental-1.4.1\res
+com.example.evrazinventarizasiya.test.app-tracing-1.2.0-1 C:\Users\User\.gradle\caches\8.13\transforms\7cd6f980459151f5e862c60ddd5605fe\transformed\tracing-1.2.0\res
+com.example.evrazinventarizasiya.test.app-core-1.5.0-2 C:\Users\User\.gradle\caches\8.13\transforms\985b1def0f55c4b1ea8fbccbc7d02c72\transformed\core-1.5.0\res
+com.example.evrazinventarizasiya.test.app-androidTest-3 C:\Users\User\AndroidStudioProjects\EVRAZInventarizasiya\app\build\generated\res\resValues\androidTest\debug
+com.example.evrazinventarizasiya.test.app-updated_navigation_xml-4 C:\Users\User\AndroidStudioProjects\EVRAZInventarizasiya\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.example.evrazinventarizasiya.test.app-mergeDebugAndroidTestResources-5 C:\Users\User\AndroidStudioProjects\EVRAZInventarizasiya\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.evrazinventarizasiya.test.app-mergeDebugAndroidTestResources-6 C:\Users\User\AndroidStudioProjects\EVRAZInventarizasiya\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.evrazinventarizasiya.test.app-debugAndroidTest-7 C:\Users\User\AndroidStudioProjects\EVRAZInventarizasiya\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

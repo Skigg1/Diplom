@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Дата начала периода:"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp" />
+
+    <TextView
+        android:id="@+id/startDateTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="16sp"
+        android:padding="12dp"
+        android:background="@android:drawable/editbox_background"
+        android:clickable="true"
+        android:focusable="true"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Период:"
+        android:textSize="16sp"
+        android:layout_marginBottom="8dp" />
+
+    <RadioGroup
+        android:id="@+id/periodGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/periodDay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Один день" />
+
+        <RadioButton
+            android:id="@+id/periodMonth"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Месяц" />
+
+        <RadioButton
+            android:id="@+id/period3Months"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3 месяца" />
+
+        <RadioButton
+            android:id="@+id/periodYear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Год" />
+
+    </RadioGroup>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Сортировка:"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="8dp" />
+
+    <RadioGroup
+        android:id="@+id/sortGroup"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/sortProduct"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="По продукции"
+            android:checked="true" />
+
+        <RadioButton
+            android:id="@+id/sortLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="По месту хранения" />
+
+    </RadioGroup>
+
+</LinearLayout>

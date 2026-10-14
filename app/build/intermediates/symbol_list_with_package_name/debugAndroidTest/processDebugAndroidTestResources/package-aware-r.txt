@@ -1,0 +1,3 @@
+com.example.evrazinventarizasiya.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

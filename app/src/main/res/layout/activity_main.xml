@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:padding="16dp">
+
+    <!-- Логотип -->
+    <ImageView
+        android:id="@+id/logoImage"
+        android:layout_width="134dp"
+        android:layout_height="68dp"
+        android:contentDescription="@string/logo_desc"
+        android:src="@drawable/logo"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ScrollView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/logoImage">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/dateTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/date_prefix"
+                android:gravity="center"
+                android:textAlignment="center"
+                android:textSize="22sp"
+                android:textStyle="bold"
+                android:padding="12dp"
+                android:background="?attr/selectableItemBackground"
+                android:clickable="true"
+                android:focusable="true"
+                android:drawableEnd="@android:drawable/ic_menu_edit"
+                android:drawablePadding="8dp"
+                android:layout_gravity="center_horizontal" />
+
+            <TextView
+                android:id="@+id/labelTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Выберите склад"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:layout_marginTop="24dp"
+                android:layout_gravity="center_horizontal" />
+
+            <Spinner
+                android:id="@+id/valuesSpinner"
+                android:layout_width="328dp"
+                android:layout_height="47dp"
+                android:layout_marginTop="8dp"
+                android:layout_gravity="center_horizontal" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/continueButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Продолжить"
+                android:textColor="@android:color/white"
+                app:cornerRadius="10dp"
+                app:backgroundTint="#FF9800"
+                android:layout_marginTop="24dp"
+                android:layout_gravity="center_horizontal" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/reportButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Сформировать отчёт"
+                android:textColor="@android:color/white"
+                app:cornerRadius="10dp"
+                app:backgroundTint="#4CAF50"
+                android:layout_marginTop="16dp"
+                android:layout_marginBottom="16dp"
+                android:layout_gravity="center_horizontal" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
